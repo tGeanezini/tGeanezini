@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tGeanezini)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/tGeanezini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tGeanezini&count_private=true&include_all_commits=true&show_icons=true&theme=slateorange&hide=contribs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tGeanezini&layout=compact&theme=slateorange" />
+</div>
