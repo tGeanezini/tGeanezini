@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, welcome to my GitHub 👋
 
 <!--
 **tGeanezini/tGeanezini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,5 +29,14 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
- ##
+##
+  
+### My socials 📱
+  
+<div>
+  <a href="https://www.linkedin.com/in/tiago-geanezini/" target="_blank"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://stackoverflow.com/users/2249501/tiago-geanezini" target="_blank"></a><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
+  <a href="https://twitter.com/tgeanezini" target="_blank"></a><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  <a href="https://medium.com/@t.geanezini" target="_blank"></a><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
+</div>
   
